@@ -1,6 +1,6 @@
 # Dracula for [Jenkins](https://www.jenkins.io)
 
-> A dark theme for [Jenkins](https://www.jenkins.io).
+> Dracula theme for [Jenkins](https://www.jenkins.io).
 
 ![Screenshot](./screenshot/01-dashboard.png)
 
