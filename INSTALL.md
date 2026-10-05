@@ -16,10 +16,12 @@ The theme is the [Dracula Theme](https://plugins.jenkins.io/dracula-theme/) plug
 #### Activating theme
 
 1. Go to **Manage Jenkins** → **Appearance**;
-2. Select **Dracula** and click **Save**;
+2. Select **Dracula**, or **Dracula (Alucard)** for the light theme, and click **Save**;
 3. Boom! It's working ✨
 
-To use Dracula for every user, also select **Do not allow users to select a different theme**. Otherwise, each user can select **Dracula** in their user menu → **Appearance**.
+**Dracula (System)** switches between Dracula and Alucard with the dark mode setting of the operating system.
+
+To use the theme for every user, also select **Do not allow users to select a different theme**. Otherwise, each user can select a Dracula theme in their user menu → **Appearance**.
 
 #### Configuration as Code
 
@@ -31,3 +33,5 @@ appearance:
     disableUserThemes: true
     theme: "dracula"
 ```
+
+Use `"draculaAlucard"` for Dracula (Alucard) and `"draculaSystem"` for Dracula (System).

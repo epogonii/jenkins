@@ -2,9 +2,13 @@
 
 > Dracula theme for [Jenkins](https://www.jenkins.io).
 
-![Screenshot](./screenshot/01-dashboard.png)
+![Dracula](./screenshot/01-dashboard.png)
 
-The theme ships as the [Dracula Theme](https://plugins.jenkins.io/dracula-theme/) plugin for Jenkins. Its source code lives in [jenkinsci/dracula-theme-plugin](https://github.com/jenkinsci/dracula-theme-plugin).
+> Alucard, a light theme
+
+![Alucard](./screenshot/02-dashboard-alucard.png)
+
+The themes ship as the [Dracula Theme](https://plugins.jenkins.io/dracula-theme/) plugin for Jenkins: **Dracula**, **Dracula (Alucard)** and **Dracula (System)**, which follows the dark mode setting of the operating system. The source code lives in [jenkinsci/dracula-theme-plugin](https://github.com/jenkinsci/dracula-theme-plugin).
 
 ## Install
 
